@@ -34,3 +34,5 @@ Share your experience, contribute or ask questions with the WalletConnect Commun
 * Telegram: [https://telegram.walletconnect.org](https://telegram.walletconnect.org)
 * Twitter: [https://twitter.walletconnect.org](https://twitter.walletconnect.org)
 
+Other language: tiếng Việt (https://github.com/vuongvoviet/walletconnect-docs/blob/patch-1/README_vn.md)[https://github.com/vuongvoviet/walletconnect-docs/blob/patch-1/README_vn.md]
+
